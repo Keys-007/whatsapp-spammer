@@ -17,8 +17,8 @@ A simple Python program to spam WhatsApp Chats
 
 #### Install selenium using the following command:
 
->>pip install selenium
+>>pip3 install selenium
 
 #### Run the bot using the following command:
 
->>python spammer.py
+>>python3 spammer.py
